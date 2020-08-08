@@ -15,7 +15,7 @@
     </a>
   </p>
   <p align="center">
-    <img src="" />
+    <img src="https://github.com/nivaldoandrade/Proffy/blob/master/readmeFiles/capa.png" />
   </p>
   </header>
   
